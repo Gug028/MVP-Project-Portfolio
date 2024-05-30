@@ -1,0 +1,22 @@
+1. Explain the most difficult technical challenge you encountered in this second week. This answer must be more than 200 words.
+2. Describe the most difficult non-technical challenge you encountered in this second week. This answer must be more than 200 words.
+
+Answers:
+1. My objective was to minimise both the delivery time and the distance travelled by the drivers while ensuring timely deliveries to customers. To tackle this challenge, I had to implement a sophisticated algorithm that could handle a large number of delivery requests and dynamically adjust routes in real-time as new requests came in.
+
+Firstly, I explored heuristic approaches such as nearest neighbour algorithms and genetic algorithms to quickly find suboptimal solutions. However, these methods often struggled to produce efficient routes, especially as the number of delivery requests increased.
+
+To overcome this, we turned to more advanced techniques such as simulated annealing and ant colony optimisation. These algorithms leverage concepts from nature to iteratively refine the routes and converge towards near-optimal solutions. However, implementing these algorithms required a deep understanding of their underlying principles and careful fine-tuning of parameters to ensure effective performance in my specific context.
+
+Furthermore, we had to consider various constraints such as delivery time windows, vehicle capacities, and traffic conditions, which added another layer of complexity to the routing problem.
+
+Ultimately, overcoming this technical challenge required a combination of algorithmic innovation, optimisation techniques, and practical engineering to develop a robust routing system capable of efficiently managing the complexities of food delivery share services.
+
+2. One significant challenge was convincing restaurants to come on board and list their menus on my platform. Many restaurants already have partnerships with established delivery services, so convincing them to try a new platform requires demonstrating clear value propositions such as lower fees, wider reach, or better customer service. This often involved conducting persuasive presentations, negotiating terms, and addressing any concerns or objections they had about our platform.
+
+Another non-technical challenge was gaining the trust of customers, especially in a crowded market where they have multiple options to choose from. Building trust involves various aspects such as ensuring food safety, providing accurate delivery estimates, offering responsive customer support, and maintaining transparent pricing policies. Communicating these aspects effectively through marketing efforts, social media engagement, and customer testimonials was essential in winning over potential users.
+
+Additionally, managing expectations and handling feedback gracefully were ongoing challenges. As with any new service, there were bound to be glitches, delays, or misunderstandings along the way. Responding promptly to customer inquiries, addressing complaints with empathy and professionalism, and continuously iterating based on user feedback were vital for maintaining positive relationships and fostering trust in our platform.
+
+Overall, navigating these non-technical challenges required a combination of effective communication, relationship-building skills, customer-centric mindset, and a willingness to adapt and improve based on feedback and market dynamics.
+
